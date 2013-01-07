@@ -6,7 +6,7 @@ exclude: ['Rakefile', 'README.md']
 markdown: rdiscount
 
 # configuration required for some pages
-
+baseurl: "Jekyll-Bootstrap-Template"
 domain: webcane.github.com
 title: webcane on gitHub pages
 author: Mikhail Niedre
