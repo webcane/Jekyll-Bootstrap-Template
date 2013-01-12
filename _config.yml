@@ -1,16 +1,17 @@
 # standard jekyll configuration
 
-permalink: date
+permalink: none
 pygments: true
 exclude: ['Rakefile', 'README.md']
 markdown: rdiscount
+root_dir: "Jekyll-Bootstrap-Template"
 
 # configuration required for some pages
 
-domain: blog.example.com
-title: My Blog Title
-author: Me
-email: me@example.com
+domain: webcane.github.com
+title: Webcane on GitHub
+author: cane
+email: webcane@ya.ru
 
 # configuration for ehancements, uncomment to enable
 
@@ -20,8 +21,8 @@ email: me@example.com
 # google_analytics:
 #   account: UA-XXXXX-X
 
-# github:
-#   username: ghusername
+ github:
+   username: webcane
 
 # disqus:
 #   id: disqusid
