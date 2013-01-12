@@ -1,9 +1,10 @@
 # standard jekyll configuration
 
-permalink: date
+permalink: none
 pygments: true
 exclude: ['Rakefile', 'README.md']
 markdown: rdiscount
+root_dir: "Jekyll-Bootstrap-Template"
 
 # configuration required for some pages
 baseurl: "Jekyll-Bootstrap-Template"
@@ -20,7 +21,7 @@ email: webcane@ya.ru
 # google_analytics:
 #   account: UA-XXXXX-X
 
-# github:
+github:
  username: webcane
 
 # disqus:
