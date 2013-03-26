@@ -1,5 +1,5 @@
 auto: true
-server: true
+server: false
 
 # standard jekyll configuration
 
@@ -7,6 +7,7 @@ permalink: none
 pygments: true
 exclude: ['Rakefile', 'README.md']
 markdown: rdiscount
+baseurl: "/Jekyll-Bootstrap-Template"
 root_dir: "Jekyll-Bootstrap-Template"
 
 # configuration required for some pages
